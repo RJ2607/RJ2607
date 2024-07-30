@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rj2607" alt="rj2607" /></a> </p>
 
-- 🔭 I’m currently working on **nothing in specific**
+- 🔭 I’m currently working on **On personal project Tripmate**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter Full Stack**
 
 - 📫 How to reach me **rishijain2607@gmail.com**
 
