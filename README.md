@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Jain</h1>
 <h3 align="center">Programming ~ Gaming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rj2607&label=Profile%20views&color=0e75b6&style=flat" alt="rj2607" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rj2607&label=Profile%20views&color=0e75b6&style=flat" alt="rj2607" /> </p> [![wakatime](https://wakatime.com/badge/user/83b24d9f-1e2a-419d-a325-c40a66771c2c.svg)](https://wakatime.com/@83b24d9f-1e2a-419d-a325-c40a66771c2c)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rj2607" alt="rj2607" /></a> </p>
 
